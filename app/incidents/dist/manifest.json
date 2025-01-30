@@ -168,6 +168,6 @@
   },
   "sap.cloud": {
     "public": true,
-    "service": "incidentmanagement.service"
+    "service": "incidentmanagement"
   }
 }

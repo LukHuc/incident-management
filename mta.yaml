@@ -145,6 +145,6 @@ resources:
       - name: srv-api
         group: destinations
         properties:
-          name: srv-api # must be used in xs-app.json as well
+          name: srv-api 
           url: ~{srv-url}
           forwardAuthToken: true

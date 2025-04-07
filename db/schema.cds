@@ -56,7 +56,7 @@ key code: String enum {
     high = 'H';
     medium = 'M'; 
     low = 'L'; 
-//    very_high = 'X';
+    very_high = 'X';
 };
 }
 
